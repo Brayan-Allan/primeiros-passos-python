@@ -1,0 +1,12 @@
+# Entradas usuário
+
+valor_1 = int(input("Entre com um número inteiro: "))
+valor_2 = int(input("Entre com outro número inteiro: "))
+
+# Processamento
+
+soma = valor_1 + valor_2
+
+# Saída de dados
+
+print(f"A soma de {valor_1} e {valor_2} é = {soma}")
